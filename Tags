@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--this is my first code-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <p>Hello world!</p> -->
+     <h1>HEADING1</h1>
+     <H2>HEADING2</H2>
+     <H3>HEADING3</H3>
+     <A href= "https://www.youtube.com/watch?v=HcOc7P5BMi4">you tube</A>
+     <br>
+     <!-- anchor tag given below used for url -->
+     <a href = "/hello.html">go to hello</a>
+     <img src="https://m.media-amazon.com/images/I/71E181iSlLL.jpg"alt ="notebook" height="100">
+     <b>Ridhi sharma</b>
+     <i>Ridhi sharma</i>
+     <u>Ridhi sharma</u>
+     <br>
+     <big>This tag show big </big>
+     <hr>
+     <small>This tag show small</small>
+     <hr>
+     <!-- subscript tag -->
+     
+      <p>H<sub>2</sub>O</p>
+      <hr>
+      <p>3<sup>2</sup>=9</p>
+      <!-- when we need spaces in paragraph we can use pre tag -->
+</body>
+</html>
